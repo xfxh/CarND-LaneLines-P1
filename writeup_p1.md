@@ -10,11 +10,6 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./test_images_output/solidWhiteCurve.jpg
-[image3]: ./examples/laneLines_thirdPass.jpg
 ---
 
 ### Reflection
@@ -41,9 +36,9 @@ position of each line and extrapolated to the top and bottom of the lane.
 
 
 
-![alt text][image1]
-![alt text][image2]
-![alt text][image3]
+<img src="examples/grayscale.jpg" width="480" alt="Grayscale Image" />
+<img src="test_images_output/solidWhiteCurve.jpg" width="480" alt="Combined Image" />
+<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Straight Line Image" />
 
 
 ### 2. Identify potential shortcomings with your current pipeline
